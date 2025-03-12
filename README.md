@@ -17,6 +17,8 @@ Here are some screenshots of the website:
 
 ![Website Screenshot 1](screenshots/screenshot1.png)
 
+And detailed personal page with new, interactive components.
+
 ![Website Screenshot 2](screenshots/screenshot2.png)
 
 ## Tech Stack
